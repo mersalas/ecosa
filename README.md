@@ -1,2 +1,2 @@
 # ecosa
-Interpretable machine learning models for the prediction of antimicrobial activity of peptides 
+Interpretable ensembled classsifiers for reliable prediction of antimicrobial activities of peptides 
