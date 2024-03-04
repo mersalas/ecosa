@@ -34,7 +34,7 @@ year = {2024}
 @unpublished{Salas2024,
 author = {Salas, Remmer L. and Nellas, Ricky B. and Sabido, Portia Mahal G.},
 journal = {SSRN Electronic Journal},
-doi = {10.2139/ssrn.4736138},
+doi = {10.2139/ssrn.4710010},
 title = {{Enhancing the antibacterial activities of ultrashort histidine-based lipopeptides by selecting an optimum cationic side chain with the aid of computational methods}},
 url = {https://ssrn.com/abstract=4710010},
 year = {2024}
