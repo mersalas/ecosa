@@ -1,6 +1,6 @@
 # ecosa
 
-This is the repository for the codes of vote and stack models in the paper, [Interpretable ensemble classifiers for reliable prediction of antibacterial activities of peptides against Escherichia coli and Staphylococcus aureus](https://ssrn.com/abstract=4736138).
+This is the repository for the codes of vote and stack models in the paper, [Interpretable ensemble classifiers for reliable prediction of antibacterial activities of peptides against *Escherichia coli* and *Staphylococcus aureus*](https://ssrn.com/abstract=4736138).
 
 ![Graphical abstract](paper1_gabstract.jpeg)
 
@@ -15,10 +15,10 @@ Packages required to run the Google Colab notebook:
 
 ## Colab notebooks:
 
-- ecoli and saureus: contain the codes used in the model development 
-- ecoli_test and saureus_test: codes for vote model; data can be replaced with your own to do peptide activity prediction and feature importance identification
-- saureus_test: codes for stack model
-- ecoli_uhl_test: codes for the model used in paper, [Enhancing the antibacterial activities of ultrashort histidine-based lipopeptides by selecting an optimum cationic side chain with the aid of computational methods](https://ssrn.com/abstract=4710010)
+- [ecoli](https://github.com/mersalas/ecosa/blob/main/ecoli.ipynb) and [saureus](https://github.com/mersalas/ecosa/blob/main/saureus.ipynb): contain the codes used in the model development 
+- [ecoli_test](https://github.com/mersalas/ecosa/blob/main/ecoli_test.ipynb): codes for vote model; data can be replaced with your own to make peptide activity prediction and important feature identification
+- [saureus_test](https://github.com/mersalas/ecosa/blob/main/saureus_test.ipynb): codes for stack model
+- [ecoli_uhl_test](https://github.com/mersalas/ecosa/blob/main/ecoli_uhl_test.ipynb): codes for the model used in the paper, [Enhancing the antibacterial activities of ultrashort histidine-based lipopeptides by selecting an optimum cationic side chain with the aid of computational methods](https://ssrn.com/abstract=4710010)
 
 ## How to cite:
 ```bibtex
