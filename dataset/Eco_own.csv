@@ -1,0 +1,12 @@
+﻿id,n_ter,seq,c_ter,smiles,uaa_pos,uaa_type,MIC_ugml,Ecoli
+1,C14,GLLKRIKTLL,AMD,CCCCCCCCCCCCCC(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCC[NH3+])C(=O)N[C@@H](CCCNC(=[NH2+])N)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCCC[NH3+])C(=O)N[C@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(N)=O)[C@@H](C)O,,,1.6,1
+2,C14,HH,AMD,NC(=O)[C@H](Cc1cnc[NH]1)NC(=O)[C@@H](NC(=O)CCCCCCCCCCCCC)Cc1cnc[NH]1,,,128,0
+3,C14,RH,AMD,[NH2+]=C(N)NCCC[C@H](NC(=O)CCCCCCCCCCCCC)C(=O)N[C@@H](Cc1cnc[NH]1)C(N)=O,,,4,1
+4,C14,KH,AMD,CCCCCCCCCCCCCC(=O)N[C@@H](CCCC[NH3+])C(=O)N[C@@H](Cc1cnc[NH]1)C(N)=O,,,8,1
+5,C14,OH,AMD,CCCCCCCCCCCCCC(=O)N[C@@H](CCC[NH3+])C(=O)N[C@@H](Cc1cnc[NH]1)C(N)=O,1,Orn,2,1
+6,C14,XH,AMD,CCCCCCCCCCCCCC(=O)N[C@@H](CC[NH3+])C(=O)N[C@@H](Cc1cnc[NH]1)C(N)=O,1,Dab,4,1
+7,C14,XH,AMD,CCCCCCCCCCCCCC(=O)N[C@@H](C[NH3+])C(=O)N[C@@H](Cc1cnc[NH]1)C(N)=O,1,Dap,4,1
+8,C14,OHR,AMD,NC(=O)[C@H](CCCNC(=[NH2+])N)NC(=O)[C@@H](NC(=O)[C@H](CCC[NH3+])NC(=O)CCCCCCCCCCCCC)Cc1cnc[NH]1,1,Orn,0.5,1
+9,Chx,XOHR,AMD,NC(=O)[C@H](CCCNC(=[NH2+])N)NC(=O)[C@@H](NC(=O)[C@H](CCC[NH3+])NC(=O)[C@H](CCCCNC(=O)CCCC1CCCCC1)NC(=O)CCCC1CCCCC1)Cc1cnc[NH]1,"1,2","Lys-Chx, Orn",0.5,1
+10,Chx,XHHFIOOI,AMD,NC(=O)[C@@H](NC(=O)[C@H](CCC[NH3+])NC(=O)[C@H](CCC[NH3+])NC(=O)[C@@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](Cc1cnc[NH]1)NC(=O)[C@@H](NC(=O)[C@H](CCCCNC(=O)CCCC1CCCCC1)NC(=O)CCCC1CCCCC1)Cc1cnc[NH]1)[C@@H](C)CC)[C@@H](C)CC,"1,6,7","Lys-Chx, Orn",0.25,1
+11,Chx,XFHHIOH,AMD,NC(=O)[C@H](Cc1cnc[NH]1)NC(=O)[C@H](CCC[NH3+])NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](Cc1cnc[NH]1)NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CCCCNC(=O)CCCC1CCCCC1)NC(=O)CCCC1CCCCC1)Cc1cnc[NH]1)[C@@H](C)CC,"1,6","Lys-Chx, Orn",2,1
